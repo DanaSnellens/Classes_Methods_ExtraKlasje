@@ -14,7 +14,7 @@ Date tht;
     }
 
     public List <Ingredient> listIngredients(Ingredient banaan) {
-        List<Ingredient> ingredients = new Array()
+        List<Ingredient> ingredients = new Array();
     }
 
 }
